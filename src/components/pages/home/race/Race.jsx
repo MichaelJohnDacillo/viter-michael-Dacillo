@@ -4,7 +4,7 @@ const Race = () => {
   return (
     <>
         {/* Race */}
-      <section className="py-16 bg-white">
+      <section id="races" className="py-16 bg-white">
         <div className="container mx-auto">
           <h2 className="text-3xl font-bold mb-8 text-center">NEXT RACE</h2>
           <div className="bg-gray-800 text-white p-6 rounded-lg max-w-2xl mx-auto">
